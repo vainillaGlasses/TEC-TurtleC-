@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1429752838 source:c:\users\sammy\documents\workspacec++\dotorkadraw\main.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<algorithm>
+	<string>
+	<string.h>
+	<strings.h>
+	<Instruction.h>
+	<LinkedList.h>
+	<Color.h>
+	<Canvas.h>
+	<File.h>
+
+1429750827 c:\users\sammy\documents\workspacec++\dotorkadraw\include\instruction.h
+	<string>
+
+1429750685 c:\users\sammy\documents\workspacec++\dotorkadraw\include\linkedlist.h
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+	<sstream>
+	<Node.h>
+
+1429750666 c:\users\sammy\documents\workspacec++\dotorkadraw\include\node.h
+
+1429750709 c:\users\sammy\documents\workspacec++\dotorkadraw\include\color.h
+	<algorithm>
+	<string>
+
+1429752970 c:\users\sammy\documents\workspacec++\dotorkadraw\include\canvas.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<winbgim.h>
+	<Turtle.h>
+	<string.h>
+	<File.h>
+
+1429751450 c:\users\sammy\documents\workspacec++\dotorkadraw\include\turtle.h
+	<math.h>
+	<iostream>
+	<winbgim.h>
+
+1429750701 c:\users\sammy\documents\workspacec++\dotorkadraw\include\file.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<sstream>
+	<LinkedList.h>
+	<Instruction.h>
+
+1429752838 source:c:\users\sammy\dropbox\proyecto-turtlegraphics\dotorkadraw\main.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<algorithm>
+	<string>
+	<string.h>
+	<strings.h>
+	<Instruction.h>
+	<LinkedList.h>
+	<Color.h>
+	<Canvas.h>
+	<File.h>
+
+1429750827 c:\users\sammy\dropbox\proyecto-turtlegraphics\dotorkadraw\include\instruction.h
+	<string>
+
+1429750685 c:\users\sammy\dropbox\proyecto-turtlegraphics\dotorkadraw\include\linkedlist.h
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+	<sstream>
+	<Node.h>
+
+1429750666 c:\users\sammy\dropbox\proyecto-turtlegraphics\dotorkadraw\include\node.h
+
+1429750709 c:\users\sammy\dropbox\proyecto-turtlegraphics\dotorkadraw\include\color.h
+	<algorithm>
+	<string>
+
+1429752970 c:\users\sammy\dropbox\proyecto-turtlegraphics\dotorkadraw\include\canvas.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<winbgim.h>
+	<Turtle.h>
+	<string.h>
+	<File.h>
+
+1429764599 c:\users\sammy\dropbox\proyecto-turtlegraphics\dotorkadraw\include\turtle.h
+	<math.h>
+	<iostream>
+	<winbgim.h>
+
+1429750701 c:\users\sammy\dropbox\proyecto-turtlegraphics\dotorkadraw\include\file.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<sstream>
+	<LinkedList.h>
+	<Instruction.h>
+

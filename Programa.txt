@@ -1,0 +1,12 @@
+forward 100
+left 90
+forward 100
+left 90
+forward 100
+left 90
+forward 100
+left 90
+penup
+forward 50
+pendown
+write 10 cuadrado
